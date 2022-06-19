@@ -45,45 +45,45 @@ With all of this being known, let's get started!
 First, we'll import the dataset and start exploring. Since we know the evaluation metric we're trying to minimise, 
 our first goal will be building a baseline model and seeing how it stacks up against the competition.
 
-111
+<img src="https://github.com/samyakmohelay/Bluebook-Bulldozer-Price-Regression/blob/main/assets/1.png" width="400" height="300">
 
-222
+<img src="https://github.com/samyakmohelay/Bluebook-Bulldozer-Price-Regression/blob/main/assets/2.png" width="400" height="300">
 
-333
+<img src="https://github.com/samyakmohelay/Bluebook-Bulldozer-Price-Regression/blob/main/assets/3.png" width="400" height="300">
 
 ## 5. Modelling
 
 We've done enough EDA (we could always do more) but let's start to do some model-driven EDA.
 
-444
+<img src="https://github.com/samyakmohelay/Bluebook-Bulldozer-Price-Regression/blob/main/assets/4.png" width="600" height="300">
 
 ### Splitting data into train/validaton sets
 
-555 
+<img src="https://github.com/samyakmohelay/Bluebook-Bulldozer-Price-Regression/blob/main/assets/5.png" width="600" height="300">
 
 ### Building an evaluation function
 
-666
+<img src="https://github.com/samyakmohelay/Bluebook-Bulldozer-Price-Regression/blob/main/assets/6.png" width="700" height="300">
 
 ## 6. Testing our model on a subset (to tune the hyperparameters)
 
-777
+<img src="https://github.com/samyakmohelay/Bluebook-Bulldozer-Price-Regression/blob/main/assets/7.png" width="700" height="300">
 
 ### Hyperparameter tuning with RandomizedSearchCV
 
-888
+<img src="https://github.com/samyakmohelay/Bluebook-Bulldozer-Price-Regression/blob/main/assets/8.png" width="700" height="500">
 
 Finding the best model hyperparameters and Evaluating the randomized search model
 
-999
+![](https://github.com/samyakmohelay/Bluebook-Bulldozer-Price-Regression/blob/main/assets/9.png)
 
 ## 7. Making predictions on test data
 
-101010
+<img src="https://github.com/samyakmohelay/Bluebook-Bulldozer-Price-Regression/blob/main/assets/10.png" width="600" height="500">
 
 ## 8. Feature Importance
 Feature importance seeks to figure out which different attributes of the data were most importance when it comes to predicting the target variable (SalePrice).
 
-111111
+![](https://github.com/samyakmohelay/Bluebook-Bulldozer-Price-Regression/blob/main/assets/11.png)
 
 
