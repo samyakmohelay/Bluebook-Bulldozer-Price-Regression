@@ -2,6 +2,8 @@
 
 In this notebook, we're going to predict the sale price of bulldozers.
 
+<img src="https://github.com/samyakmohelay/Bluebook-Bulldozer-Price-Regression/blob/main/assets/bulldozer.png" width="650" height="400">
+
 Since we're trying to predict a number, this kind of problem is known as a `regression problem`.
 
 The data and evaluation metric we'll be using (root mean square log error or RMSLE) is from the Kaggle Bluebook for Bulldozers competition.
