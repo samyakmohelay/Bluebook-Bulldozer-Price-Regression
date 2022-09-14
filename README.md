@@ -87,5 +87,3 @@ Finding the best model hyperparameters and Evaluating the randomized search mode
 Feature importance seeks to figure out which different attributes of the data were most importance when it comes to predicting the target variable (SalePrice).
 
 ![](https://github.com/samyakmohelay/Bluebook-Bulldozer-Price-Regression/blob/main/assets/11.png)
-
-
